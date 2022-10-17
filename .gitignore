@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+CoinPusherGame/Library/
+CoinPusherGame/.vsconfig
+CoinPusherGame/Assets/Scenes.meta
+CoinPusherGame/Logs/
+CoinPusherGame/ProjectSettings/ClusterInputManager.asset
+CoinPusherGame/Packages/
+CoinPusherGame/ProjectSettings/
+CoinPusherGame/Temp/
